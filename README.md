@@ -1,2 +1,3 @@
 # bases_testes
-Bases utilizadas em testes
+
+Repositório de bases e tabelas utilizadas em testes.
